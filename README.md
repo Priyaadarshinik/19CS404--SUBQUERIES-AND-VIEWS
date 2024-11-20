@@ -144,6 +144,7 @@ WHERE city != (SELECT city
                LIMIT 1);
                
 Output: 
+
 ![image](https://github.com/user-attachments/assets/65477e26-463a-40ce-b610-7f190b886a90)
  
  
